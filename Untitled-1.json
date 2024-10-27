@@ -1,0 +1,1302 @@
+{
+	"knownSymbols": {
+		"type { DefaultSession": [
+			{
+				"name": "type { DefaultSession",
+				"module": "next-auth",
+				"isDefault": true
+			}
+		],
+		"config": [
+			{
+				"name": "config",
+				"path": "c:\\Users\\Caleb\\hostel-management-3\\src\\middleware.ts",
+				"type": "const",
+				"isDefault": true
+			}
+		],
+		"type { Config": [
+			{
+				"name": "type { Config",
+				"module": "tailwindcss",
+				"isDefault": true
+			}
+		],
+		"defineConfig": [
+			{
+				"name": "defineConfig",
+				"module": "sanity",
+				"isDefault": false
+			},
+			{
+				"name": "defineConfig",
+				"path": "c:\\Users\\Caleb\\hostel-management-3\\sanity.config.ts",
+				"isDefault": true
+			}
+		],
+		"deskTool": [
+			{
+				"name": "deskTool",
+				"module": "sanity/desk",
+				"isDefault": false
+			}
+		],
+		"visionTool": [
+			{
+				"name": "visionTool",
+				"module": "@sanity/vision",
+				"isDefault": false
+			}
+		],
+		"authOptions": [
+			{
+				"name": "authOptions",
+				"module": "@/libs/auth",
+				"isDefault": false
+			},
+			{
+				"name": "authOptions",
+				"path": "c:\\Users\\Caleb\\hostel-management-3\\src\\libs\\auth.ts",
+				"type": "const",
+				"isDefault": false
+			}
+		],
+		"NextAuthOptions": [
+			{
+				"name": "NextAuthOptions",
+				"module": "next-auth",
+				"isDefault": false
+			}
+		],
+		"SanityAdapter": [
+			{
+				"name": "SanityAdapter",
+				"module": "next-auth-sanity",
+				"isDefault": false
+			}
+		],
+		"SanityCredentials": [
+			{
+				"name": "SanityCredentials",
+				"module": "next-auth-sanity",
+				"isDefault": false
+			}
+		],
+		"GithubProvider": [
+			{
+				"name": "GithubProvider",
+				"module": "next-auth/providers/github",
+				"isDefault": true
+			}
+		],
+		"GoogleProvider": [
+			{
+				"name": "GoogleProvider",
+				"module": "next-auth/providers/google",
+				"isDefault": true
+			}
+		],
+		"sanityClient": [
+			{
+				"name": "sanityClient",
+				"module": "@/libs/sanity",
+				"isDefault": true
+			},
+			{
+				"name": "sanityClient",
+				"path": "c:\\Users\\Caleb\\hostel-management-3\\src\\libs\\sanity.ts",
+				"isDefault": true
+			}
+		],
+		"createClient": [
+			{
+				"name": "createClient",
+				"module": "next-sanity",
+				"isDefault": false
+			}
+		],
+		"async": [
+			{
+				"name": "async",
+				"path": "c:\\Users\\Caleb\\hostel-management-3\\src\\app\\api\\room-reviews\\[id]\\route.ts",
+				"isDefault": false
+			}
+		],
+		"createBooking": [
+			{
+				"name": "createBooking",
+				"module": "@/libs/apis",
+				"isDefault": false
+			},
+			{
+				"name": "createBooking",
+				"path": "c:\\Users\\Caleb\\hostel-management-3\\src\\libs\\apis.ts",
+				"type": "const",
+				"isDefault": false
+			}
+		],
+		"updateHotelRoom": [
+			{
+				"name": "updateHotelRoom",
+				"module": "@/libs/apis",
+				"isDefault": false
+			},
+			{
+				"name": "updateHotelRoom",
+				"path": "c:\\Users\\Caleb\\hostel-management-3\\src\\libs\\apis.ts",
+				"type": "const",
+				"isDefault": false
+			}
+		],
+		"updateReview": [
+			{
+				"name": "updateReview",
+				"path": "c:\\Users\\Caleb\\hostel-management-3\\src\\libs\\apis.ts",
+				"type": "const",
+				"isDefault": false
+			}
+		],
+		"createReview": [
+			{
+				"name": "createReview",
+				"path": "c:\\Users\\Caleb\\hostel-management-3\\src\\libs\\apis.ts",
+				"type": "const",
+				"isDefault": false
+			}
+		],
+		"axios": [
+			{
+				"name": "axios",
+				"module": "axios",
+				"isDefault": true
+			}
+		],
+		"CreateBookingDto": [
+			{
+				"name": "CreateBookingDto",
+				"path": "c:\\Users\\Caleb\\hostel-management-3\\src\\models\\room.ts",
+				"type": "type",
+				"isDefault": false
+			},
+			{
+				"name": "CreateBookingDto",
+				"module": "@/models/room",
+				"isDefault": false
+			}
+		],
+		"Room": [
+			{
+				"name": "Room",
+				"module": "@/models/room",
+				"isDefault": false
+			},
+			{
+				"name": "Room",
+				"path": "c:\\Users\\Caleb\\hostel-management-3\\src\\models\\room.ts",
+				"type": "type",
+				"isDefault": false
+			}
+		],
+		"Booking": [
+			{
+				"name": "Booking",
+				"module": "@/models/booking",
+				"isDefault": false
+			},
+			{
+				"name": "Booking",
+				"path": "c:\\Users\\Caleb\\hostel-management-3\\src\\models\\booking.ts",
+				"type": "type",
+				"isDefault": false
+			}
+		],
+		"UpdateReviewDto": [
+			{
+				"name": "UpdateReviewDto",
+				"path": "c:\\Users\\Caleb\\hostel-management-3\\src\\models\\review.ts",
+				"type": "type",
+				"isDefault": false
+			},
+			{
+				"name": "UpdateReviewDto",
+				"module": "@/models/review",
+				"isDefault": false
+			}
+		],
+		"User": [
+			{
+				"name": "User",
+				"module": "@/models/user",
+				"isDefault": false
+			},
+			{
+				"name": "User",
+				"path": "c:\\Users\\Caleb\\hostel-management-3\\src\\models\\user.ts",
+				"type": "type",
+				"isDefault": false
+			}
+		],
+		"Image": [
+			{
+				"name": "Image",
+				"module": "next/image",
+				"isDefault": true
+			},
+			{
+				"name": "Image",
+				"path": "c:\\Users\\Caleb\\hostel-management-3\\src\\models\\room.ts",
+				"type": "type",
+				"isDefault": false
+			}
+		],
+		"CreateReviewDto": [
+			{
+				"name": "CreateReviewDto",
+				"path": "c:\\Users\\Caleb\\hostel-management-3\\src\\models\\review.ts",
+				"type": "type",
+				"isDefault": false
+			}
+		],
+		"Review": [
+			{
+				"name": "Review",
+				"module": "@/models/review",
+				"isDefault": false
+			},
+			{
+				"name": "Review",
+				"path": "c:\\Users\\Caleb\\hostel-management-3\\src\\models\\review.ts",
+				"type": "type",
+				"isDefault": false
+			}
+		],
+		"getFeaturedRoomQuery": [
+			{
+				"name": "getFeaturedRoomQuery",
+				"path": "c:\\Users\\Caleb\\hostel-management-3\\src\\libs\\sanityQueries.ts",
+				"type": "const",
+				"isDefault": false
+			}
+		],
+		"getRoomsQuery": [
+			{
+				"name": "getRoomsQuery",
+				"path": "c:\\Users\\Caleb\\hostel-management-3\\src\\libs\\sanityQueries.ts",
+				"type": "const",
+				"isDefault": false
+			}
+		],
+		"getRoom": [
+			{
+				"name": "getRoom",
+				"module": "@/libs/apis",
+				"isDefault": false
+			},
+			{
+				"name": "getRoom",
+				"path": "c:\\Users\\Caleb\\hostel-management-3\\src\\libs\\sanityQueries.ts",
+				"type": "const",
+				"isDefault": false
+			}
+		],
+		"getUserBookingsQuery": [
+			{
+				"name": "getUserBookingsQuery",
+				"path": "c:\\Users\\Caleb\\hostel-management-3\\src\\libs\\sanityQueries.ts",
+				"type": "const",
+				"isDefault": false
+			}
+		],
+		"getUserDataQuery": [
+			{
+				"name": "getUserDataQuery",
+				"path": "c:\\Users\\Caleb\\hostel-management-3\\src\\libs\\sanityQueries.ts",
+				"type": "const",
+				"isDefault": false
+			}
+		],
+		"getRoomReviewsQuery": [
+			{
+				"name": "getRoomReviewsQuery",
+				"path": "c:\\Users\\Caleb\\hostel-management-3\\src\\libs\\sanityQueries.ts",
+				"type": "const",
+				"isDefault": false
+			}
+		],
+		"groq": [
+			{
+				"name": "groq",
+				"module": "next-sanity",
+				"isDefault": false
+			}
+		],
+		"Home": [
+			{
+				"name": "Home",
+				"path": "c:\\Users\\Caleb\\hostel-management-3\\src\\app\\(web)\\page.tsx",
+				"isDefault": true
+			}
+		],
+		"FeaturedRoom": [
+			{
+				"name": "FeaturedRoom",
+				"path": "c:\\Users\\Caleb\\hostel-management-3\\src\\components\\FeaturedRoom\\FeaturedRoom.tsx",
+				"isDefault": true
+			},
+			{
+				"name": "FeaturedRoom",
+				"module": "@/components/FeaturedRoom/FeaturedRoom",
+				"isDefault": true
+			}
+		],
+		"Gallery": [
+			{
+				"name": "Gallery",
+				"path": "c:\\Users\\Caleb\\hostel-management-3\\src\\components\\Gallery\\Gallery.tsx",
+				"isDefault": true
+			},
+			{
+				"name": "Gallery",
+				"module": "@/components/Gallery/Gallery",
+				"isDefault": true
+			}
+		],
+		"HeroSection": [
+			{
+				"name": "HeroSection",
+				"path": "c:\\Users\\Caleb\\hostel-management-3\\src\\components\\HeroSection\\HeroSection.tsx",
+				"isDefault": true
+			},
+			{
+				"name": "HeroSection",
+				"module": "@/components/HeroSection/HeroSection",
+				"isDefault": true
+			}
+		],
+		"NewsLetter": [
+			{
+				"name": "NewsLetter",
+				"path": "c:\\Users\\Caleb\\hostel-management-3\\src\\components\\NewsLetter\\NewsLetter.tsx",
+				"isDefault": true
+			},
+			{
+				"name": "NewsLetter",
+				"module": "@/components/NewsLetter/NewsLetter",
+				"isDefault": true
+			}
+		],
+		"PageSearch": [
+			{
+				"name": "PageSearch",
+				"path": "c:\\Users\\Caleb\\hostel-management-3\\src\\components\\PageSearch\\PageSearch.tsx",
+				"isDefault": true
+			},
+			{
+				"name": "PageSearch",
+				"module": "@/components/PageSearch/PageSearch",
+				"isDefault": true
+			}
+		],
+		"getFeaturedRoom": [
+			{
+				"name": "getFeaturedRoom",
+				"module": "@/libs/apis",
+				"isDefault": false
+			}
+		],
+		"getServerSession": [
+			{
+				"name": "getServerSession",
+				"module": "next-auth",
+				"isDefault": false
+			}
+		],
+		"NextResponse": [
+			{
+				"name": "NextResponse",
+				"module": "next/server",
+				"isDefault": false
+			}
+		],
+		"Stripe": [
+			{
+				"name": "Stripe",
+				"module": "@stripe/stripe-js",
+				"isDefault": false
+			},
+			{
+				"name": "Stripe",
+				"module": "stripe",
+				"isDefault": true
+			}
+		],
+		"LoadingSpinner": [
+			{
+				"name": "LoadingSpinner",
+				"path": "c:\\Users\\Caleb\\hostel-management-3\\src\\app\\(web)\\loading.tsx",
+				"isDefault": true
+			}
+		],
+		"metadata": [
+			{
+				"name": "metadata",
+				"path": "c:\\Users\\Caleb\\hostel-management-3\\src\\app\\(cms)\\layout.tsx",
+				"type": "const",
+				"isDefault": false
+			}
+		],
+		"RootLayout": [
+			{
+				"name": "RootLayout",
+				"path": "c:\\Users\\Caleb\\hostel-management-3\\src\\app\\(cms)\\layout.tsx",
+				"type": "function",
+				"isDefault": true
+			}
+		],
+		"type { Metadata": [
+			{
+				"name": "type { Metadata",
+				"module": "next",
+				"isDefault": true
+			}
+		],
+		"Poppins": [
+			{
+				"name": "Poppins",
+				"module": "next/font/google",
+				"isDefault": false
+			}
+		],
+		"Header": [
+			{
+				"name": "Header",
+				"path": "c:\\Users\\Caleb\\hostel-management-3\\src\\components\\Header\\Header.tsx",
+				"isDefault": true
+			},
+			{
+				"name": "Header",
+				"module": "@/components/Header/Header",
+				"isDefault": true
+			}
+		],
+		"Footer": [
+			{
+				"name": "Footer",
+				"path": "c:\\Users\\Caleb\\hostel-management-3\\src\\components\\Footer\\Footer.tsx",
+				"isDefault": true
+			},
+			{
+				"name": "Footer",
+				"module": "@/components/Footer/Footer",
+				"isDefault": true
+			}
+		],
+		"ThemeProvider": [
+			{
+				"name": "ThemeProvider",
+				"path": "c:\\Users\\Caleb\\hostel-management-3\\src\\components\\ThemeProvider\\ThemeProvider.tsx",
+				"isDefault": true
+			},
+			{
+				"name": "ThemeProvider",
+				"module": "@/components/ThemeProvider/ThemeProvider",
+				"isDefault": true
+			}
+		],
+		"NextAuthProvider": [
+			{
+				"name": "NextAuthProvider",
+				"path": "c:\\Users\\Caleb\\hostel-management-3\\src\\components\\AuthProvider\\AuthProvider.tsx",
+				"type": "const",
+				"isDefault": false
+			},
+			{
+				"name": "NextAuthProvider",
+				"module": "@/components/AuthProvider/AuthProvider",
+				"isDefault": false
+			}
+		],
+		"Toast": [
+			{
+				"name": "Toast",
+				"path": "c:\\Users\\Caleb\\hostel-management-3\\src\\components\\Toast\\Toast.tsx",
+				"isDefault": true
+			},
+			{
+				"name": "Toast",
+				"module": "@/components/Toast/Toast",
+				"isDefault": true
+			}
+		],
+		"Error": [
+			{
+				"name": "Error",
+				"path": "c:\\Users\\Caleb\\hostel-management-3\\src\\app\\(web)\\error.tsx",
+				"type": "function",
+				"isDefault": true
+			}
+		],
+		"Auth": [
+			{
+				"name": "Auth",
+				"path": "c:\\Users\\Caleb\\hostel-management-3\\src\\app\\(web)\\auth\\page.tsx",
+				"isDefault": true
+			}
+		],
+		"ChangeEvent": [
+			{
+				"name": "ChangeEvent",
+				"module": "react",
+				"isDefault": false
+			}
+		],
+		"FormEvent": [
+			{
+				"name": "FormEvent",
+				"module": "react",
+				"isDefault": false
+			}
+		],
+		"useEffect": [
+			{
+				"name": "useEffect",
+				"module": "react",
+				"isDefault": false
+			}
+		],
+		"useState": [
+			{
+				"name": "useState",
+				"module": "react",
+				"isDefault": false
+			}
+		],
+		"AiFillGithub": [
+			{
+				"name": "AiFillGithub",
+				"module": "react-icons/ai",
+				"isDefault": false
+			}
+		],
+		"FcGoogle": [
+			{
+				"name": "FcGoogle",
+				"module": "react-icons/fc",
+				"isDefault": false
+			}
+		],
+		"signUp": [
+			{
+				"name": "signUp",
+				"module": "next-auth-sanity/client",
+				"isDefault": false
+			}
+		],
+		"signIn": [
+			{
+				"name": "signIn",
+				"module": "next-auth/react",
+				"isDefault": false
+			}
+		],
+		"useSession": [
+			{
+				"name": "useSession",
+				"module": "next-auth/react",
+				"isDefault": false
+			}
+		],
+		"toast": [
+			{
+				"name": "toast",
+				"module": "react-hot-toast",
+				"isDefault": true
+			}
+		],
+		"useRouter": [
+			{
+				"name": "useRouter",
+				"module": "next/navigation",
+				"isDefault": false
+			}
+		],
+		"Rooms": [
+			{
+				"name": "Rooms",
+				"path": "c:\\Users\\Caleb\\hostel-management-3\\src\\app\\(web)\\rooms\\page.tsx",
+				"isDefault": true
+			}
+		],
+		"useSearchParams": [
+			{
+				"name": "useSearchParams",
+				"module": "next/navigation",
+				"isDefault": false
+			}
+		],
+		"useSWR": [
+			{
+				"name": "useSWR",
+				"module": "swr",
+				"isDefault": true
+			}
+		],
+		"getRooms": [
+			{
+				"name": "getRooms",
+				"module": "@/libs/apis",
+				"isDefault": false
+			}
+		],
+		"Search": [
+			{
+				"name": "Search",
+				"path": "c:\\Users\\Caleb\\hostel-management-3\\src\\components\\Search\\Search.tsx",
+				"isDefault": true
+			},
+			{
+				"name": "Search",
+				"module": "@/components/Search/Search",
+				"isDefault": true
+			}
+		],
+		"RoomCard": [
+			{
+				"name": "RoomCard",
+				"path": "c:\\Users\\Caleb\\hostel-management-3\\src\\components\\RoomCard\\RoomCard.tsx",
+				"isDefault": true
+			},
+			{
+				"name": "RoomCard",
+				"module": "@/components/RoomCard/RoomCard",
+				"isDefault": true
+			}
+		],
+		"UserDetails": [
+			{
+				"name": "UserDetails",
+				"path": "c:\\Users\\Caleb\\hostel-management-3\\src\\app\\(web)\\users\\[id]\\page.tsx",
+				"isDefault": true
+			}
+		],
+		"FaSignOutAlt": [
+			{
+				"name": "FaSignOutAlt",
+				"module": "react-icons/fa",
+				"isDefault": false
+			}
+		],
+		"signOut": [
+			{
+				"name": "signOut",
+				"module": "next-auth/react",
+				"isDefault": false
+			}
+		],
+		"getUserBookings": [
+			{
+				"name": "getUserBookings",
+				"module": "@/libs/apis",
+				"isDefault": false
+			}
+		],
+		"BsJournalBookmarkFill": [
+			{
+				"name": "BsJournalBookmarkFill",
+				"module": "react-icons/bs",
+				"isDefault": false
+			}
+		],
+		"GiMoneyStack": [
+			{
+				"name": "GiMoneyStack",
+				"module": "react-icons/gi",
+				"isDefault": false
+			}
+		],
+		"Table": [
+			{
+				"name": "Table",
+				"path": "c:\\Users\\Caleb\\hostel-management-3\\src\\components\\Table\\Table.tsx",
+				"isDefault": true
+			},
+			{
+				"name": "Table",
+				"module": "@/components/Table/Table",
+				"isDefault": true
+			}
+		],
+		"Chart": [
+			{
+				"name": "Chart",
+				"path": "c:\\Users\\Caleb\\hostel-management-3\\src\\components\\Chart\\Chart.tsx",
+				"isDefault": true
+			},
+			{
+				"name": "Chart",
+				"module": "@/components/Chart/Chart",
+				"isDefault": true
+			}
+		],
+		"RatingModal": [
+			{
+				"name": "RatingModal",
+				"path": "c:\\Users\\Caleb\\hostel-management-3\\src\\components\\RatingModal\\RatingModal.tsx",
+				"isDefault": true
+			},
+			{
+				"name": "RatingModal",
+				"module": "@/components/RatingModal/RatingModal",
+				"isDefault": true
+			}
+		],
+		"BackDrop": [
+			{
+				"name": "BackDrop",
+				"path": "c:\\Users\\Caleb\\hostel-management-3\\src\\components\\BackDrop\\BackDrop.tsx",
+				"isDefault": true
+			},
+			{
+				"name": "BackDrop",
+				"module": "@/components/BackDrop/BackDrop",
+				"isDefault": true
+			}
+		],
+		"RoomDetails": [
+			{
+				"name": "RoomDetails",
+				"path": "c:\\Users\\Caleb\\hostel-management-3\\src\\app\\(web)\\rooms\\[slug]\\page.tsx",
+				"isDefault": true
+			}
+		],
+		"MdOutlineCleaningServices": [
+			{
+				"name": "MdOutlineCleaningServices",
+				"module": "react-icons/md",
+				"isDefault": false
+			}
+		],
+		"LiaFireExtinguisherSolid": [
+			{
+				"name": "LiaFireExtinguisherSolid",
+				"module": "react-icons/lia",
+				"isDefault": false
+			}
+		],
+		"AiOutlineMedicineBox": [
+			{
+				"name": "AiOutlineMedicineBox",
+				"module": "react-icons/ai",
+				"isDefault": false
+			}
+		],
+		"GiSmokeBomb": [
+			{
+				"name": "GiSmokeBomb",
+				"module": "react-icons/gi",
+				"isDefault": false
+			}
+		],
+		"HotelPhotoGallery": [
+			{
+				"name": "HotelPhotoGallery",
+				"path": "c:\\Users\\Caleb\\hostel-management-3\\src\\components\\HotelPhotoGallery\\HotelPhotoGallery.tsx",
+				"isDefault": true
+			},
+			{
+				"name": "HotelPhotoGallery",
+				"module": "@/components/HotelPhotoGallery/HotelPhotoGallery",
+				"isDefault": true
+			}
+		],
+		"BookRoomCta": [
+			{
+				"name": "BookRoomCta",
+				"path": "c:\\Users\\Caleb\\hostel-management-3\\src\\components\\BookRoomCta\\BookRoomCta.tsx",
+				"isDefault": true
+			},
+			{
+				"name": "BookRoomCta",
+				"module": "@/components/BookRoomCta/BookRoomCta",
+				"isDefault": true
+			}
+		],
+		"getStripe": [
+			{
+				"name": "getStripe",
+				"path": "c:\\Users\\Caleb\\hostel-management-3\\src\\libs\\stripe.ts",
+				"type": "const",
+				"isDefault": false
+			},
+			{
+				"name": "getStripe",
+				"module": "@/libs/stripe",
+				"isDefault": false
+			}
+		],
+		"RoomReview": [
+			{
+				"name": "RoomReview",
+				"path": "c:\\Users\\Caleb\\hostel-management-3\\src\\components\\RoomReview\\RoomReview.tsx",
+				"isDefault": true
+			},
+			{
+				"name": "RoomReview",
+				"module": "@/components/RoomReview/RoomReview",
+				"isDefault": true
+			}
+		],
+		"NextAuth": [
+			{
+				"name": "NextAuth",
+				"module": "next-auth",
+				"isDefault": true
+			}
+		],
+		"POST": [
+			{
+				"name": "POST",
+				"path": "c:\\Users\\Caleb\\hostel-management-3\\src\\app\\api\\sanity\\signUp\\route.ts",
+				"type": "const",
+				"isDefault": false
+			}
+		],
+		"signUpHandler": [
+			{
+				"name": "signUpHandler",
+				"module": "next-auth-sanity",
+				"isDefault": false
+			}
+		],
+		"loadStripe": [
+			{
+				"name": "loadStripe",
+				"module": "@stripe/stripe-js",
+				"isDefault": false
+			}
+		],
+		"getRoomReviews": [
+			{
+				"name": "getRoomReviews",
+				"module": "@/libs/apis",
+				"isDefault": false
+			}
+		],
+		"ThemeContext": [
+			{
+				"name": "ThemeContext",
+				"module": "@/context/themeContext",
+				"isDefault": true
+			},
+			{
+				"name": "ThemeContext",
+				"path": "c:\\Users\\Caleb\\hostel-management-3\\src\\context\\themeContext.ts",
+				"isDefault": true
+			}
+		],
+		"Dispatch": [
+			{
+				"name": "Dispatch",
+				"module": "react",
+				"isDefault": false
+			}
+		],
+		"SetStateAction": [
+			{
+				"name": "SetStateAction",
+				"module": "react",
+				"isDefault": false
+			}
+		],
+		"createContext": [
+			{
+				"name": "createContext",
+				"module": "react",
+				"isDefault": false
+			}
+		],
+		"Toaster": [
+			{
+				"name": "Toaster",
+				"module": "react-hot-toast",
+				"isDefault": false
+			}
+		],
+		"FC": [
+			{
+				"name": "FC",
+				"module": "react",
+				"isDefault": false
+			}
+		],
+		"SessionProvider": [
+			{
+				"name": "SessionProvider",
+				"module": "next-auth/react",
+				"isDefault": false
+			}
+		],
+		"Link": [
+			{
+				"name": "Link",
+				"module": "next/link",
+				"isDefault": true
+			}
+		],
+		"Rating": [
+			{
+				"name": "Rating",
+				"path": "c:\\Users\\Caleb\\hostel-management-3\\src\\components\\Rating\\Rating.tsx",
+				"isDefault": true
+			}
+		],
+		"FaStar": [
+			{
+				"name": "FaStar",
+				"module": "react-icons/fa",
+				"isDefault": false
+			}
+		],
+		"FaStarHalf": [
+			{
+				"name": "FaStarHalf",
+				"module": "react-icons/fa",
+				"isDefault": false
+			}
+		],
+		"BsStarFill": [
+			{
+				"name": "BsStarFill",
+				"module": "react-icons/bs",
+				"isDefault": false
+			}
+		],
+		"Studio": [
+			{
+				"name": "Studio",
+				"path": "c:\\Users\\Caleb\\hostel-management-3\\src\\app\\(cms)\\studio\\[[...index]]\\page.tsx",
+				"type": "function",
+				"isDefault": true
+			}
+		],
+		"NextStudio": [
+			{
+				"name": "NextStudio",
+				"module": "next-sanity/studio",
+				"isDefault": false
+			}
+		],
+		"heading1": [
+			{
+				"name": "heading1",
+				"path": "c:\\Users\\Caleb\\hostel-management-3\\src\\components\\HeroSection\\ServerComponent.tsx",
+				"type": "const",
+				"isDefault": false
+			}
+		],
+		"section2": [
+			{
+				"name": "section2",
+				"path": "c:\\Users\\Caleb\\hostel-management-3\\src\\components\\HeroSection\\ServerComponent.tsx",
+				"type": "const",
+				"isDefault": false
+			}
+		],
+		"ClientComponent": [
+			{
+				"name": "ClientComponent",
+				"path": "c:\\Users\\Caleb\\hostel-management-3\\src\\components\\HeroSection\\ClientComponent.tsx",
+				"isDefault": true
+			}
+		],
+		"Image as ImageType": [
+			{
+				"name": "Image as ImageType",
+				"module": "@/models/room",
+				"isDefault": false
+			}
+		],
+		"FaArrowLeft": [
+			{
+				"name": "FaArrowLeft",
+				"module": "react-icons/fa",
+				"isDefault": false
+			}
+		],
+		"FaArrowRight": [
+			{
+				"name": "FaArrowRight",
+				"module": "react-icons/fa",
+				"isDefault": false
+			}
+		],
+		"MdCancel": [
+			{
+				"name": "MdCancel",
+				"module": "react-icons/md",
+				"isDefault": false
+			}
+		],
+		"useContext": [
+			{
+				"name": "useContext",
+				"module": "react",
+				"isDefault": false
+			}
+		],
+		"FaUserCircle": [
+			{
+				"name": "FaUserCircle",
+				"module": "react-icons/fa",
+				"isDefault": false
+			}
+		],
+		"MdDarkMode": [
+			{
+				"name": "MdDarkMode",
+				"module": "react-icons/md",
+				"isDefault": false
+			}
+		],
+		"MdOutlineLightMode": [
+			{
+				"name": "MdOutlineLightMode",
+				"module": "react-icons/md",
+				"isDefault": false
+			}
+		],
+		"BsFillSendFill": [
+			{
+				"name": "BsFillSendFill",
+				"module": "react-icons/bs",
+				"isDefault": false
+			}
+		],
+		"BsTelephoneOutbound": [
+			{
+				"name": "BsTelephoneOutbound",
+				"module": "react-icons/bs",
+				"isDefault": false
+			}
+		],
+		"BiMessageDetail": [
+			{
+				"name": "BiMessageDetail",
+				"module": "react-icons/bi",
+				"isDefault": false
+			}
+		],
+		"DatePicker": [
+			{
+				"name": "DatePicker",
+				"module": "react-datepicker",
+				"isDefault": true
+			}
+		],
+		"options": [
+			{
+				"name": "options",
+				"path": "c:\\Users\\Caleb\\hostel-management-3\\src\\components\\Chart\\Chart.tsx",
+				"type": "const",
+				"isDefault": false
+			}
+		],
+		"Bar": [
+			{
+				"name": "Bar",
+				"module": "react-chartjs-2",
+				"isDefault": false
+			}
+		],
+		"CountUpNumber": [
+			{
+				"name": "CountUpNumber",
+				"path": "c:\\Users\\Caleb\\hostel-management-3\\src\\components\\CountUpNumber\\CountUpNumber.tsx",
+				"isDefault": true
+			}
+		],
+		"verificationToken": [
+			{
+				"name": "verificationToken",
+				"path": "c:\\Users\\Caleb\\hostel-management-3\\schemas\\verificationToken.ts",
+				"isDefault": true
+			}
+		],
+		"defineField": [
+			{
+				"name": "defineField",
+				"module": "sanity",
+				"isDefault": false
+			}
+		],
+		"user": [
+			{
+				"name": "user",
+				"path": "c:\\Users\\Caleb\\hostel-management-3\\schemas\\user.ts",
+				"isDefault": true
+			}
+		],
+		"review": [
+			{
+				"name": "review",
+				"path": "c:\\Users\\Caleb\\hostel-management-3\\schemas\\review.ts",
+				"isDefault": true
+			}
+		],
+		"schemaTypes": [
+			{
+				"name": "schemaTypes",
+				"path": "c:\\Users\\Caleb\\hostel-management-3\\schemas\\index.ts",
+				"type": "const",
+				"isDefault": false
+			}
+		],
+		"hotelRoom": [
+			{
+				"name": "hotelRoom",
+				"path": "c:\\Users\\Caleb\\hostel-management-3\\schemas\\hotelRoom.ts",
+				"isDefault": true
+			}
+		],
+		"booking": [
+			{
+				"name": "booking",
+				"path": "c:\\Users\\Caleb\\hostel-management-3\\schemas\\booking.ts",
+				"isDefault": true
+			}
+		],
+		"account": [
+			{
+				"name": "account",
+				"path": "c:\\Users\\Caleb\\hostel-management-3\\schemas\\account.ts",
+				"isDefault": true
+			}
+		],
+		"defineCliConfig": [
+			{
+				"name": "defineCliConfig",
+				"module": "sanity/cli",
+				"isDefault": false
+			},
+			{
+				"name": "defineCliConfig",
+				"path": "c:\\Users\\Caleb\\hostel-management-3\\sanity.cli.ts",
+				"isDefault": true
+			}
+		],
+		"structure": [
+			{
+				"name": "structure",
+				"path": "c:\\Users\\Caleb\\hostel-management-3\\sanity\\structure.ts",
+				"type": "const",
+				"isDefault": false
+			}
+		],
+		"type {StructureResolver": [
+			{
+				"name": "type {StructureResolver",
+				"module": "sanity/structure",
+				"isDefault": true
+			}
+		],
+		"schema": [
+			{
+				"name": "schema",
+				"path": "c:\\Users\\Caleb\\hostel-management-3\\sanity\\schemaTypes\\index.ts",
+				"type": "const",
+				"isDefault": false
+			}
+		],
+		"type SchemaTypeDefinition": [
+			{
+				"name": "type SchemaTypeDefinition",
+				"module": "sanity",
+				"isDefault": false
+			}
+		],
+		"apiVersion": [
+			{
+				"name": "apiVersion",
+				"path": "c:\\Users\\Caleb\\hostel-management-3\\sanity\\env.ts",
+				"type": "const",
+				"isDefault": false
+			}
+		],
+		"dataset": [
+			{
+				"name": "dataset",
+				"path": "c:\\Users\\Caleb\\hostel-management-3\\sanity\\env.ts",
+				"type": "const",
+				"isDefault": false
+			}
+		],
+		"projectId": [
+			{
+				"name": "projectId",
+				"path": "c:\\Users\\Caleb\\hostel-management-3\\sanity\\env.ts",
+				"type": "const",
+				"isDefault": false
+			}
+		],
+		"client": [
+			{
+				"name": "client",
+				"path": "c:\\Users\\Caleb\\hostel-management-3\\sanity\\lib\\client.ts",
+				"type": "const",
+				"isDefault": false
+			}
+		],
+		"urlFor": [
+			{
+				"name": "urlFor",
+				"path": "c:\\Users\\Caleb\\hostel-management-3\\sanity\\lib\\image.ts",
+				"type": "const",
+				"isDefault": false
+			}
+		],
+		"createImageUrlBuilder": [
+			{
+				"name": "createImageUrlBuilder",
+				"module": "@sanity/image-url",
+				"isDefault": true
+			}
+		],
+		"SanityImageSource": [
+			{
+				"name": "SanityImageSource",
+				"module": "@sanity/image-url/lib/types/types",
+				"isDefault": false
+			}
+		],
+		"type { ResolvingMetadata": [
+			{
+				"name": "type { ResolvingMetadata",
+				"module": "next/dist/lib/metadata/types/metadata-interface.js",
+				"isDefault": true
+			}
+		],
+		"type { NextRequest": [
+			{
+				"name": "type { NextRequest",
+				"module": "next/server.js",
+				"isDefault": true
+			}
+		],
+		"PageProps": [
+			{
+				"name": "PageProps",
+				"path": "c:\\Users\\Caleb\\hostel-management-3\\.next\\types\\app\\api\\auth\\[...nextauth]\\route.ts",
+				"type": "interface",
+				"isDefault": false
+			}
+		],
+		"LayoutProps": [
+			{
+				"name": "LayoutProps",
+				"path": "c:\\Users\\Caleb\\hostel-management-3\\.next\\types\\app\\api\\auth\\[...nextauth]\\route.ts",
+				"type": "interface",
+				"isDefault": false
+			}
+		]
+	}
+}

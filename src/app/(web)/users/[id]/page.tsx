@@ -201,6 +201,16 @@ const UserDetails = (props: { params: { id: string } }) => {
         </div>
       </div>
 
+      {/* New Request Button */}
+      <div className='mt-4'>
+            <button
+              onClick={() => alert('Request Button Clicked')}
+              className='bg-blue-600 text-white py-2 px-4 rounded hover:bg-blue-700 transition-colors duration-300'
+            >
+              Request
+            </button>
+          </div>
+
       <RatingModal
         isOpen={isRatingVisible}
         ratingValue={ratingValue}
